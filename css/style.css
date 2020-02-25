@@ -59,7 +59,8 @@ body {
 	float: left;
 	margin: 0;
 	overflow: hidden;
-	padding: 0 0 0;
+	padding-left: 114px;
+	padding-top: 50px;
 }
 #header .section ul li {
 	background: url(../images/bg-nav-right.gif) no-repeat top right;
@@ -86,7 +87,7 @@ body {
 #header .section ul li a:hover {
 	color: #ccc;
 }
-#header .section ul li.selected {
+#header .section ul li.selected {
 	background: url(../images/bg-nav-right-selected.gif) no-repeat top right;
 }
 #header .section ul li.selected a {
