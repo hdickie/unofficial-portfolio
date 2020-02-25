@@ -34,7 +34,7 @@ body {
 }
 #header .section .logo {
 	float: left;
-	margin: 0;
+	margin: -100px;
 	padding: 60px 0 0 10px;
 	width: 324px;
 }
@@ -47,7 +47,7 @@ body {
 	font-weight: normal;
 	height: 130px;
 	line-height: 130px;
-	margin-left: -60px;
+	margin-left: 60px;
 	padding: 0;
 	text-align:center;
 	text-decoration: none;
