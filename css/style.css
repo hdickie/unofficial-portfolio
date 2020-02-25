@@ -95,7 +95,7 @@ body {
 }
 #header .article {
 	background: #fff;
-	border: 2px solid #5fb3bd;
+	border: 2px solid #519194;
 	border-radius: 4px;
 	margin: 50px auto 28px;
 	overflow: hidden;
@@ -190,7 +190,7 @@ body {
 	width: 80px;
 }
 #body > .more:hover {
-	color: #4a8b92;
+	color: #ff9900;
 }
 #body h2 {
 	background: url(../images/bg-featured.png) repeat-x;
@@ -248,7 +248,7 @@ body {
 }
 #body div .featured {
 	background: #fff;
-	border: 5px solid #5fb3bd;
+	border: 5px solid #519194;
 	border-radius: 4px;
 	min-height: 450px;
 	padding: 45px 15px 15px;
@@ -290,8 +290,8 @@ body {
 	width: 460px;
 }
 #body div .section div {
-	background: #519194;
-	border: 5px solid #5fb3bd;
+	background: #ff9900;
+	border: 5px solid #519194;
 	border-radius: 4px;
 	float: none;
 	margin: 0;
