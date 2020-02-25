@@ -95,7 +95,7 @@ body {
 }
 #header .article {
 	background: #fff;
-	border: 2px solid #519194;
+	border: 2px solid #cc6600;
 	border-radius: 4px;
 	margin: 50px auto 28px;
 	overflow: hidden;
@@ -248,7 +248,7 @@ body {
 }
 #body div .featured {
 	background: #fff;
-	border: 5px solid #519194;
+	border: 5px solid #cc6600;
 	border-radius: 4px;
 	min-height: 450px;
 	padding: 45px 15px 15px;
@@ -291,7 +291,7 @@ body {
 }
 #body div .section div {
 	background: #ff9900;
-	border: 5px solid #519194;
+	border: 5px solid #cc6600;
 	border-radius: 4px;
 	float: none;
 	margin: 0;
@@ -329,7 +329,7 @@ body {
 	text-decoration: underline;
 }
 #body div .section .article p a:hover {
-	color: #97d0d3;
+	color: #ff9900;
 }
 #body div .section .article > a {
 	color: #f5f5f5;
@@ -337,7 +337,7 @@ body {
 	text-decoration: none;
 }
 #body div .section .article > a:hover {
-	color: #97d0d3;
+	color: #ff9900;
 }
 #body div .section .newsletter {
 	height: 456;
@@ -525,7 +525,7 @@ body {
 	text-decoration: none;
 }
 #body .sidebar ul li span a:hover {
-	color: #4c8f97;
+	color: #cc6600;
 }
 #body .sidebar ul li p {
 	color: #000;
