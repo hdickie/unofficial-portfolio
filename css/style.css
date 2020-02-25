@@ -380,7 +380,7 @@ body {
 	margin: 0;
 	padding: 0 0 4px;
 	text-transform: capitalize;
-	text-shadow: 0 -1px 0 #285f62;
+	text-shadow: 0 -1px 0 #ff9900;
 }
 #body div .section .newsletter form input {
 	background: url(../images/interface.png) no-repeat;
@@ -543,7 +543,7 @@ body {
 }
 #footer {
 	background: #ff9900;
-	border-top: 1px solid #9bd9e0;
+	border-top: 1px solid #ff9900;
 	margin: 0;
 	padding: 0;
 }
