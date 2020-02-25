@@ -308,6 +308,9 @@ body {
 #body div .section .article h2 {
 	text-align: left;
 }
+#body div .section .article img {
+	margin-top: 10px;
+}
 #body div .section .article h2 a {
 	background: url(../images/icons.png) no-repeat 0 10px;
 	display: inline-block;
