@@ -342,6 +342,7 @@ body {
 }
 #body div .section .newsletter {
 	height: 456;
+	width: 456;
 	padding: 30px 15px 19px 214px;
 	position: relative;
 }
