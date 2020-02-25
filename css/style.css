@@ -57,9 +57,9 @@ body {
 #header .section ul {
 	display: inline-block;
 	float: left;
-	margin: 100px;
+	margin: 0px;
 	overflow: hidden;
-	padding-left: 114px;
+	padding-left: 50px;
 	padding-top: 50px;
 }
 #header .section ul li {
