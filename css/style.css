@@ -360,6 +360,7 @@ body {
 }
 #body div .section .newsletter a img {
 	margin-top: 30px;
+	margin-left: 10px;
 }
 #body div .section .newsletter p {
 	color: #f5f5f5;
@@ -367,7 +368,7 @@ body {
 	font-weight: bold;
 	letter-spacing: 0.03em;
 	line-height: 30px;
-	margin-left: 10px;
+	margin-left: 20px;
 	padding: 0;
 }
 #body div .section .newsletter p span {
