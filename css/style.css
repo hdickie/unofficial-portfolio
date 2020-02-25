@@ -57,7 +57,7 @@ body {
 #header .section ul {
 	display: inline-block;
 	float: left;
-	margin: 0px;
+	margin-left: 100px;
 	overflow: hidden;
 	padding-left: 50px;
 	padding-top: 50px;
