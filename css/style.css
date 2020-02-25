@@ -56,10 +56,10 @@ body {
 }
 #header .section ul {
 	display: inline-block;
-	float: right;
+	float: left;
 	margin: 0;
 	overflow: hidden;
-	padding: 114px 0 0;
+	padding: 0 0 0;
 }
 #header .section ul li {
 	background: url(../images/bg-nav-right.gif) no-repeat top right;
