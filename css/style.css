@@ -539,10 +539,10 @@ body {
 	text-decoration: underline;
 }
 #body .sidebar ul li p a:hover {
-	color: #4c8f97;
+	color: #ff9900;
 }
 #footer {
-	background: #4c8f96;
+	background: #ff9900;
 	border-top: 1px solid #9bd9e0;
 	margin: 0;
 	padding: 0;
@@ -565,7 +565,7 @@ body {
 	text-align: center;
 }
 #footer div .connect {
-	background: #387a82;
+	background: #ff9900;
 	float: right;
 	height: 18px;
 	margin: 0 20px 0 150px;
